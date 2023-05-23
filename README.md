@@ -7,15 +7,15 @@ While learning to create simple animations, I had the idea to recreate the iconi
 
 I started by working with a moving rectangle on the screen, then added color-changing effects, and finally incorporated the logo on top.
 
-## I used the following technologies::
+## I used the following technologies:
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Next challenges::
+## Next challenges:
 
-- Made it spawn randomly
-- Made the first color also be picked randomly
+- Make it spawn randomly
+- Make the first color also be picked randomly
 
 
