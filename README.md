@@ -13,3 +13,9 @@ I started by working with a moving rectangle on the screen, then added color-cha
 - CSS3
 - JavaScript
 
+## Next challenges::
+
+- Made it spawn randomly
+- Made the first color also be picked randomly
+
+
