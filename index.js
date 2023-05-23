@@ -4,8 +4,6 @@ const ctx = canvas.getContext('2d');
 canvas.width = innerWidth;
 canvas.height = innerHeight - 5;
 
-//CÍRCULO
-
 const Rect = class {
   constructor(width, height, x, y, dx, dy){
     this.width = width;
@@ -63,7 +61,10 @@ const Rect = class {
   }
 } 
 
-const rect = new Rect( 250, 150 , 20, 20, 4, 4);
+let x = Math.floor(Math.random() * 10);
+let y = Math.floor(Math.random() * 10);
+
+const rect = new Rect( 250, 150 , x, y, 4, 4);
 
 function animate() {
   requestAnimationFrame(animate);
